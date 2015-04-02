@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">autoMate</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="make_spinner_prompt">Make</string>
+    <string name="model_spinner_prompt">Model</string>
+    <string name="year_spinner_prompt">Year</string>
+    
+    <array name="make_array">
+        <item>Chevrolet</item>
+        <item>Chrysler</item>
+        <item>Dodge</item>
+        <item>Ford</item>
+        <item>Hyundai</item>
+        <item>Kia</item>
+        <item>Toyota</item>
+        <item>Volvo</item>
+        <item>Volkswagen</item>
+    </array>
+
+    <array name="placeholder_model_array">
+        <item>Pick a make</item>
+    </array>
+    <array name="chevrolet_model_array">
+        <item>Camaro</item>
+        <item>Corvette</item>
+        <item>Cruze</item>
+        <item>Impala</item>
+        <item>Malibu</item>
+    </array>
+    <array name="chrysler_model_array">
+        <item>300\u0000</item>
+        <item>Delta</item>
+        <item>PT Cruiser</item>
+        <item>Sebring</item>
+        <item>Town \u0026 Country</item>
+    </array>
+    <array name="dodge_model_array">
+        <item>Put stuff here later</item>
+        <item>Put stuff here later</item>
+    </array>
+    <array name="ford_model_array">
+        <item>Put stuff here later</item>
+        <item>Put stuff here later</item>
+    </array>
+    <array name="hyundai_model_array">
+        <item>Put stuff here later</item>
+        <item>Put stuff here later</item>
+    </array>
+    <array name="kia_model_array">
+        <item>Put stuff here later</item>
+        <item>Put stuff here later</item>
+    </array>
+    <array name="toyota_model_array">
+        <item>Put stuff here later</item>
+        <item>Put stuff here later</item>
+    </array>
+    <array name="volvo_model_array">
+        <item>Put stuff here later</item>
+        <item>Put stuff here later</item>
+    </array>
+    <array name="volkswagen_model_array">
+        <item>Put stuff here later</item>
+        <item>Put stuff here later</item>
+    </array>
+
+    <array name="years_array">
+        <item>2010\u0000</item>
+        <item>2009\u0000</item>
+        <item>2008\u0000</item>
+        <item>2007\u0000</item>
+        <item>2006\u0000</item>
+        <item>2005\u0000</item>
+        <item>2004\u0000</item>
+        <item>2003\u0000</item>
+        <item>2002\u0000</item>
+        <item>2001\u0000</item>
+        <item>2000\u0000</item>
+        <item>1999\u0000</item>
+        <item>1998\u0000</item>
+        <item>1997\u0000</item>
+        <item>1996\u0000</item>
+        <item>1995\u0000</item>
+        <item>1994\u0000</item>
+        <item>1993\u0000</item>
+        <item>1992\u0000</item>
+        <item>1991\u0000</item>
+        <item>1990\u0000</item>
+        <item>1989\u0000</item>
+        <item>1988\u0000</item>
+        <item>1987\u0000</item>
+        <item>1986\u0000</item>
+        <item>1985\u0000</item>
+        <item>1984\u0000</item>
+        <item>1983\u0000</item>
+        <item>1982\u0000</item>
+        <item>1981\u0000</item>
+        <item>1980\u0000</item>
+    </array>
+
+    <array name="timeframe_array">
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </array>
+</resources>

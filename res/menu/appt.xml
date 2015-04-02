@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.automate.app.MainActivity" >
+    
+        <item
+        android:id="@+id/cancel"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Cancel"/>
+    <item
+        android:id="@+id/submit"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Schedule"/>
+    
+
+</menu>
